@@ -48,13 +48,30 @@ img{
     color:white;
     text-align: center;
 }
+.about-header{
+    background-color:burlywood;
+    text-align: center;
+    height:200px;
+}
 
+.blog-header{
+    background-color:blueviolet;
+    text-align: center;
+    height:200px;
+
+}
 /*about*/
 .about-container{
     display: flex;
     flex-direction: row;
 
 }
+
+.about-mission{
+    display:flex;
+    align-items: center;
+}
+
 
 /*houses*/
 .houses-container{
